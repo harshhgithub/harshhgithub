@@ -2,7 +2,7 @@
 
 ▪️ 🔭 I’m currently working on developing coding skills.
 
-▪️ 👯 I’m looking to collaborate on Web Projects.
+▪️  👯 I’m looking to collaborate on Web Projects.
 
 ▪️ 💬 Ask me about anything.
 
