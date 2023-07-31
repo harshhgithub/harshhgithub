@@ -8,7 +8,7 @@
 
 ▪️ 📩 How to reach me: harshshuklaa104@gmail.com
 
-▪  🧗 Keen Learner.
+▪   🧗 Keen Learner.
 
 ▪  ⚡ Do Checkout my Projects below.
 
