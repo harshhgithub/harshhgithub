@@ -8,9 +8,9 @@
 
 ▪️ 📩 How to reach me: harshshuklaa104@gmail.com
 
-▪ 🧗 Keen Learner.
+▪  🧗 Keen Learner.
 
-▪ ⚡ Do Checkout my Projects below.
+▪  ⚡ Do Checkout my Projects below.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhgithub&show_icons=true&locale=en&layout=compact" alt="harshhgithub" /></p>
 
