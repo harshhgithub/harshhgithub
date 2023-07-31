@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
 
-▪️ 🔭 I’m currently working on developing coding skills.
+▪️🔭 I’m currently working on developing coding skills.
 
-▪️🌱 I’m currently focusing on DevOps.
+▪🌱 I’m currently focusing on DevOps.
 
-▪️ 👯 I’m looking to collaborate on Web Projects.
+▪️👯 I’m looking to collaborate on Web Projects.
 
-▪️ 💬 Ask me about anything.
+▪️💬 Ask me about anything.
 
-▪️ 📩 How to reach me: harshshuklaa104@gmail.com
+▪️📩 How to reach me: harshshuklaa104@gmail.com
 
-▪️ 🧗 Keen Learner.
+▪🧗 Keen Learner.
 
-▪️⚡ Do Checkout my Projects below.
+▪⚡ Do Checkout my Projects below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
