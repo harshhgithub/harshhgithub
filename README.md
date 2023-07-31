@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
 
-▪️🔭 I’m currently working on developing coding skills.
+▪️ 🔭 I’m currently working on developing coding skills.
 
 ▪️ 👯 I’m looking to collaborate on Web Projects.
 
