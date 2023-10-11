@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshhgithub&" alt="harshhgithub" /></p>
 
-![Screenshot (154)](https://github.com/harshhgithub/harshhgithub/assets/133668600/f740a2a1-ce3f-440d-8794-2b8d98b30eee)
+[![An image of @harshhgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshhgithub)](https://holopin.io/@harshhgithub)
 
