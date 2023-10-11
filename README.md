@@ -17,5 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhgithub&show_icons=true&locale=en" alt="harshhgithub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshhgithub&" alt="harshhgithub" /></p>
-[![An image of @harshhgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshhgithub)](https://holopin.io/@harshhgithub)
 
+![Screenshot (153)](https://github.com/harshhgithub/harshhgithub/assets/133668600/1d56e21b-6203-46bd-ac73-49206564de44)
