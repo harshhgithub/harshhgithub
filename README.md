@@ -6,7 +6,7 @@
 
 ▪️ 💬 Ask me about anything.
 
-▪️ 📩 How to reach me: harshshuklaa104@gmail.com
+▪️ 📩 How to reach me: harshshuklaa1104@gmail.com
 
 ▪   🧗 Keen Learner.
 
