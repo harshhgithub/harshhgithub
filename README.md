@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
+#  Hey, I'm Harsh Shukla!
 
-▪️ 🔭 I’m currently working on developing coding skills.
+### Full Stack Developer | Problem Solver | Tech Enthusiast
 
-▪️  👯 I’m looking to collaborate on Web Projects.
+I enjoy building scalable web applications, exploring new technologies, and solving real-world problems through code.
 
-▪️ 💬 Ask me about anything.
+-  Currently focused on strengthening my development and problem-solving skills.
+-  Exploring **MERN Stack, AI/ML & Generative AI**.
+-  Open to collaborating on exciting **Web Development projects**.
+-  Feel free to ask me about **DSA, Java, React, Node.js & Web Development**.
+-  Reach me at: **[harshshuklaa1104@gmail.com](mailto:harshshuklaa1104@gmail.com)**
+-  Always learning. Always building.
 
-▪️ 📩 How to reach me: harshshuklaa1104@gmail.com
+---
 
-▪   🧗 Keen Learner.
+###  Connect With Me
 
-▪ ⚡ Do Checkout my Projects below.
+<p align="left">
+  <a href="https://github.com/harshhgithub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:harshshuklaa1104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhgithub&show_icons=true&locale=en&layout=compact" alt="harshhgithub" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhgithub&show_icons=true&locale=en" alt="harshhgithub" /></p>
+### Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshhgithub&" alt="harshhgithub" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,firebase,vscode&perline=8" />
+</p>
 
-[![An image of @harshhgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshhgithub)](https://holopin.io/@harshhgithub)
+---
 
+### Holopin Badges
+
+[![Holopin Badges](https://holopin.me/harshhgithub)](https://holopin.io/@harshhgithub)
+
+---
+
+<p align="center">
+  <i>"Consistency beats talent when talent doesn't work consistently."</i>
+</p>
+
+<p align="center">
+  ⭐ Check out my repositories and let's build something amazing!
+</p>
