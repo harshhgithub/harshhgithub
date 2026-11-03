@@ -16,9 +16,9 @@ I enjoy building scalable web applications, exploring new technologies, and solv
 ###  Connect With Me
 
 <p align="left">
-  <a href="https://github.com/harshhgithub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://x.com/harshhshuklaa" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
   <a href="mailto:harshshuklaa1104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -41,12 +41,3 @@ I enjoy building scalable web applications, exploring new technologies, and solv
 
 [![Holopin Badges](https://holopin.me/harshhgithub)](https://holopin.io/@harshhgithub)
 
----
-
-<p align="center">
-  <i>"Consistency beats talent when talent doesn't work consistently."</i>
-</p>
-
-<p align="center">
-  ⭐ Check out my repositories and let's build something amazing!
-</p>
